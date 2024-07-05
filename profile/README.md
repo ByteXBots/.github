@@ -1,12 +1,13 @@
-## Hi there 👋
+### 👽 تیم بایت ایکس بات
+تیم ما سعی در توسعه ربات های تلگرامی کاربردی برای مخاطب های عادی و مخاطب های توسعه دهنده داره. خلق ایده های جدید و مهم تر از اون، پیاده سازی و توسعه اونها هست. برای همین نهایت تلاشمون رو میکنیم که ربات هایی بهینه توسعه بدیم.
 
-<!--
+### 🏆 کانال رسمی تلگرامی
+ما در شبکه های مجاز در حال حاظر فقل در تلگرام فعالیت داریم و آدرس اون رو هم میتونید از [این لینک](https://t.me/ByteXBots) پیدا کنید.
 
-**Here are some ideas to get you started:**
+### 🤖 ربات های فعال
+در حال حاظر تیم ما مشغول توسعه انواع ربات ها و تست اونها هست برای همین میتونیم بگیم هنوز شروع رسمی نکرده ایم.
+1. [نمایش آیدی عددی | Show Chat ID](https://t.me/ByteBot_ShowChatID_bot)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 👨‍💻 توسعه دهنده ها
+- [محمد اکبرپور جنت](https://github.com/mohammad-Akbarpour) --> متخصص php و لاراول
+- [احسان شهبازی](https://github.com/EhsanShahbazii) --> برنامه نویس عمومی
